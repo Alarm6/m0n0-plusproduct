@@ -1,0 +1,2223 @@
+[
+  {
+    "@states": [
+      "Black"
+    ],
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.7
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0
+    }
+  },
+  {
+    "@states": [
+      "Blue"
+    ],
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 1
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0
+    }
+  },
+  {
+    "@states": [
+      "Green"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.35
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.5
+    },
+    "iVzCHFKAaRqjQhl:Brightness": {
+      "brightness": 0
+    },
+    "iVzCHFKAaRqjQhl:Exposure": {
+      "exposure": 0.0
+    }
+  },
+  {
+    "@states": [
+      "Purple"
+    ],
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 1.3
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.25
+    },
+    "AGrUDDHkBYHpodF:Exposure": {
+      "exposure": 0.25
+    }
+  },
+  {
+    "@states": [
+      "White"
+    ],
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 1.9
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.9
+    },
+    "AGrUDDHkBYHpodF:Exposure": {
+      "exposure": 1.9
+    }
+  },
+  {
+    "@states": [
+      "back"
+    ],
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 1
+    },
+    "ShMjkjUSElvGntX:Saturation": {
+      "saturation": 1
+    },
+    "MZiYIrcFSqDDBWG:Exposure": {
+      "exposure": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": 0
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": 1
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": 0
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.6
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapIntensity": 1,
+      "envMapRotationX": 0,
+      "envMapRotationY": 0
+    },
+    "buIeEwmEacfXJpi:Environment": {
+      "envMapIntensity": 1
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -4
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "STFPouzRBEfDXqx:AoMap": {
+      "aoMap": "EfkhsiFgTWuuSmZ"
+    }
+  },
+  {
+    "@states": [
+      "backLeft",
+      "PT_backLeft"
+    ],
+    "jlmqWHmhbdvMnAP:Transparency": {
+      "opacity": 0.4
+    },
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 1
+    },
+    "ShMjkjUSElvGntX:Saturation": {
+      "saturation": 1
+    },
+    "MZiYIrcFSqDDBWG:Exposure": {
+      "exposure": 1
+    },
+    "qRbJHvPEunJctUf:Exposure": {
+      "exposure": -1.0
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -0.5
+    },
+    "IkcytKluBjBXquC:LightMap": {
+      "lightMapIntensity": 60
+    },
+    "PwcQHDWHjjOVRkE:Saturation": {
+      "saturation": 1
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": 0.75
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": -0.1
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.5
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapIntensity": 1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.25
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "STFPouzRBEfDXqx:AoMap": {
+      "aoMap": "wExLZrKgpRswaql"
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.5
+    },
+    "iVzCHFKAaRqjQhl:Brightness": {
+      "brightness": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.01
+    }
+  },
+  {
+    "@states": [
+      "backRight"
+    ],
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -0.5
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": 0.5
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": 0
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.5
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapIntensity": 1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "backBottom",
+      "frontBottom"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 1.25
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": -0.1
+    },
+    "ShMjkjUSElvGntX:Brightness": {
+      "brightness": 0
+    },
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 0
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.1
+    },
+    "jlmqWHmhbdvMnAP:Transparency": {
+      "opacity": 0.6
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": -1
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": 0
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.5
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.65
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.2
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "iVzCHFKAaRqjQhl:Brightness": {
+      "brightness": 0
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.3
+    }
+  },
+  {
+    "@states": [
+      "left"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 1
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.1
+    },
+    "ShMjkjUSElvGntX:Brightness": {
+      "brightness": 0
+    },
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 0
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "jlmqWHmhbdvMnAP:Brightness": {
+      "brightness": 0.1
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": -2
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.75
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.1
+    },
+    "AGrUDDHkBYHpodF:Saturation": {
+      "saturation": 1.1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.5
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "iVzCHFKAaRqjQhl:Brightness": {
+      "brightness": 0.1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.25
+    }
+  },
+  {
+    "@states": [
+      "right"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 1.8
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0
+    },
+    "ShMjkjUSElvGntX:Brightness": {
+      "brightness": 0
+    },
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 0
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "jlmqWHmhbdvMnAP:Brightness": {
+      "brightness": 0.1
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": -2
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.75
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.1
+    },
+    "AGrUDDHkBYHpodF:Saturation": {
+      "saturation": 1.1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.5
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    },
+    "iVzCHFKAaRqjQhl:Brightness": {
+      "brightness": 0.1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.25
+    }
+  },
+  {
+    "@states": [
+      "frontLeft"
+    ],
+    "MZiYIrcFSqDDBWG:Exposure": {
+      "exposure": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapRotationX": 0
+    },
+    "buIeEwmEacfXJpi:Environment": {
+      "envMapRotationY": -0.785398
+    }
+  },
+  {
+    "@states": [
+      "front"
+    ],
+    "MZiYIrcFSqDDBWG:Exposure": {
+      "exposure": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapIntensity": 0.15,
+      "envMapRotationX": 0,
+      "envMapRotationY": 0
+    },
+    "buIeEwmEacfXJpi:Environment": {
+      "envMapRotationY": 0
+    }
+  },
+  {
+    "@states": [
+      "frontRight"
+    ],
+    "MZiYIrcFSqDDBWG:Exposure": {
+      "exposure": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "iGgsHgoZthmBGoL:Environment": {
+      "envMapRotationX": 0
+    },
+    "buIeEwmEacfXJpi:Environment": {
+      "envMapRotationY": 0.785398
+    }
+  },
+  {
+    "@states": [
+      "frontTop",
+      "backTop"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 1.25
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": -0.1
+    },
+    "ShMjkjUSElvGntX:Brightness": {
+      "brightness": 0
+    },
+    "ShMjkjUSElvGntX:Exposure": {
+      "exposure": 0
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -4
+    },
+    "jlmqWHmhbdvMnAP:Transparency": {
+      "opacity": 0.2
+    },
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": -1
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": 0
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.5
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.65
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.3
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Black+frontRight"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 75
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.35
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": 0.035
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 1.2
+    }
+  },
+  {
+    "@states": [
+      "Black+frontLeft"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 25
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.35
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": 0.21
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2
+    },
+    "NjnKgiYTmTQekaW:Exposure": {
+      "exposure": 3.25
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.7
+    }
+  },
+  {
+    "@states": [
+      "Black+backLeft",
+      "Black+PT_backLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.8
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 35
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 0.25
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.1
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.5
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.3
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": 0.25
+    },
+    "NjnKgiYTmTQekaW:Exposure": {
+      "exposure": 3.75
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 1.4
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -3.25
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.32
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": -0.3
+    },
+    "hatwzEwWIGjgbem:LightMap": {
+      "lightMapIntensity": 50
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": -0.5
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.3
+    }
+  },
+  {
+    "@states": [
+      "Black+PT_backLeft"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.67
+    }
+  },
+  {
+    "@states": [
+      "Black+backRight"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.8
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 75
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 1
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.15
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.5
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": -0.33
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -0.5
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 1.7
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -3
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": -0.2
+    },
+    "AGrUDDHkBYHpodF:Exposure": {
+      "exposure": -0.2
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": -0.3
+    },
+    "hatwzEwWIGjgbem:LightMap": {
+      "lightMapIntensity": 50
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": -0.5
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.3
+    }
+  },
+  {
+    "@states": [
+      "Black+back"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 0
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.3
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.26
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0.0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "IkcytKluBjBXquC:Exposure": {
+      "exposure": -0.2
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": -0.3
+    },
+    "hatwzEwWIGjgbem:LightMap": {
+      "lightMapIntensity": 200
+    },
+    "iVzCHFKAaRqjQhl:Exposure": {
+      "exposure": -4.5
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.8
+    }
+  },
+  {
+    "@states": [
+      "Black+backBottom",
+      "Black+frontBottom"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.5
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 2.4
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": -0.1
+    },
+    "FcFGTxIkAjojgZG:Brightness": {
+      "brightness": 0
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -10
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 0.6
+    },
+    "NjnKgiYTmTQekaW:Exposure": {
+      "exposure": 3.25
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -3
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -5.5
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.3
+    }
+  },
+  {
+    "@states": [
+      "Black+backTop",
+      "Black+frontTop"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.5
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 2
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": -0.1
+    },
+    "FcFGTxIkAjojgZG:Brightness": {
+      "brightness": 0
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -10
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.9
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -5.5
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.3
+    }
+  },
+  {
+    "@states": [
+      "Black+left"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 1.1
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 2
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.1
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 4.5
+    },
+    "FcFGTxIkAjojgZG:Brightness": {
+      "brightness": 0
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -10
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 4.25
+    },
+    "NjnKgiYTmTQekaW:Exposure": {
+      "exposure": 3.5
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.4
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -5.5
+    }
+  },
+  {
+    "@states": [
+      "Black+right"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 1.1
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 2.55
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.1
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 4.5
+    },
+    "FcFGTxIkAjojgZG:Brightness": {
+      "brightness": 0
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -10
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.4
+    }
+  },
+  {
+    "@states": [
+      "Purple+back"
+    ],
+    "XgdtslLyNSeOwjP:Exposure": {
+      "exposure": 1
+    },
+    "XgdtslLyNSeOwjP:Gamma": {
+      "gamma": 0
+    },
+    "XgdtslLyNSeOwjP:Saturation": {
+      "saturation": 0.6
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": -2
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.3
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.4
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -3.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.2
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 3
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.1
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.2
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Purple+backLeft",
+      "Purple+PT_backLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.3
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 25
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.4
+    },
+    "BPKyUJIZGzdUgdT:Saturation": {
+      "saturation": 2
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.3
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.01
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": 0
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -1.5
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.5
+    },
+    "YmlPswXiJMnOhti:LightMap": {
+      "lightMapIntensity": 2
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.15
+    },
+    "AGrUDDHkBYHpodF:Saturation": {
+      "saturation": 1
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.25
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 3
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.2
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.6
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.12
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 0.75
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.125
+    }
+  },
+  {
+    "@states": [
+      "Purple+PT_backLeft"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.7
+    }
+  },
+  {
+    "@states": [
+      "Purple+backRight"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 25
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.3
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.4
+    },
+    "BPKyUJIZGzdUgdT:Saturation": {
+      "saturation": 2
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": -0.3
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -1.5
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 2
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.4
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 3
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": -0.1
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.3
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Purple+frontLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.632
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 25
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 0.4
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 0
+    }
+  },
+  {
+    "@states": [
+      "Purple+frontRight"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": -0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 75
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 0.4
+    }
+  },
+  {
+    "@states": [
+      "Purple+left"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": -0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.1
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 1.6
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.5
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.86
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.0
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 0.85
+    },
+    "AGrUDDHkBYHpodF:Saturation": {
+      "saturation": 0.8
+    }
+  },
+  {
+    "@states": [
+      "Purple+right"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": -0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.1
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 1.6
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.86
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.0
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 0.85
+    },
+    "AGrUDDHkBYHpodF:Saturation": {
+      "saturation": 0.8
+    }
+  },
+  {
+    "@states": [
+      "Purple+backBottom",
+      "Purple+frontBottom"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.3
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.35
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Purple+backTop",
+      "Purple+frontTop"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.3
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -4
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.4
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Blue+back"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.1
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 0.925
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.08
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.3
+    },
+    "iVzCHFKAaRqjQhl:Exposure": {
+      "exposure": 0.4
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.245
+    }
+  },
+  {
+    "@states": [
+      "Blue+backLeft",
+      "Blue+PT_backLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": 0.0
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 25
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.15
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -1
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.35
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.2
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2.5
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": -0.15
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.25
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.142
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.25
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Blue+PT_backLeft"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.6
+    }
+  },
+  {
+    "@states": [
+      "Blue+backRight"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.0
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": -0.25
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.3
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": -0.15
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.25
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": -0.1
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.2
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Blue+frontLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.751
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 25
+    }
+  },
+  {
+    "@states": [
+      "Blue+frontRight"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.0
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 75
+    }
+  },
+  {
+    "@states": [
+      "Blue+left"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.05
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.0
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.1
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.4
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.01
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -6
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.5
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.3
+    }
+  },
+  {
+    "@states": [
+      "Blue+right"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.05
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.0
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.1
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": -0.1
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1.2
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -6
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 0.5
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.3
+    }
+  },
+  {
+    "@states": [
+      "Blue+backBottom",
+      "Blue+frontBottom"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.01
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -4.5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.75
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Blue+backTop",
+      "Blue+frontTop"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.01
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -4.5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -1
+    },
+    "LmCNWOsaSsXUJEG:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Green+back"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "bWrtyMUElUhIDNh"
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": -0.7
+    },
+    "BPKyUJIZGzdUgdT:Saturation": {
+      "saturation": 1.3
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.15
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1.1
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -1
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": -0.1
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.1
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.08
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.2
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Green+backLeft",
+      "Green+PT_backLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.55
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": 0
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 25
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": -0.7
+    },
+    "BPKyUJIZGzdUgdT:Saturation": {
+      "saturation": 1.3
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1.2
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -2
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "YmlPswXiJMnOhti:LightMap": {
+      "lightMapIntensity": 0.9
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.37
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.5
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Green+PT_backLeft"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.7
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1.2
+    }
+  },
+  {
+    "@states": [
+      "Green+backRight"
+    ],
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 0
+    },
+    "BPKyUJIZGzdUgdT:Saturation": {
+      "saturation": 1.3
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": -0.5
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -2
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": -0.1
+    },
+    "YmlPswXiJMnOhti:Saturation": {
+      "saturation": 1.1
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": -0.1
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1.2
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    }
+  },
+  {
+    "@states": [
+      "Green+right"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.1
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Green+left"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.5
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "NtNSwEIIFmIbXaY:LightMap": {
+      "lightMapIntensity": 2.1
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -2
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "hatwzEwWIGjgbem:Saturation": {
+      "saturation": 1.5
+    }
+  },
+  {
+    "@states": [
+      "Green+backBottom",
+      "Green+frontBottom"
+    ],
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "opLCHWKegPYqnYR:Exposure": {
+      "exposure": 2
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.35
+    }
+  },
+  {
+    "@states": [
+      "Green+frontTop",
+      "Green+backTop"
+    ],
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -5
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.45
+    }
+  },
+  {
+    "@states": [
+      "Green+frontRight"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 75
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.35
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.1
+    }
+  },
+  {
+    "@states": [
+      "Green+frontLeft"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 50
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.935
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": 0.0
+    }
+  },
+  {
+    "@states": [
+      "White+back"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.3
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": -1.1
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 1
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.01
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.9
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.2
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.5
+    },
+    "AGrUDDHkBYHpodF:Exposure": {
+      "exposure": 1.5
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": -1
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0.5
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.5
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.05
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 1
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.9
+    }
+  },
+  {
+    "@states": [
+      "White+backLeft",
+      "White+PT_backLeft"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 0.4
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.4
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 1.2
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": 2
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.7
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.8
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": 0
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.3
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.05
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 1.3
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.9
+    }
+  },
+  {
+    "@states": [
+      "White+PT_backLeft"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 1.6
+    }
+  },
+  {
+    "@states": [
+      "White+backRight"
+    ],
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "BPKyUJIZGzdUgdT:Exposure": {
+      "exposure": 0.4
+    },
+    "BPKyUJIZGzdUgdT:Gamma": {
+      "gamma": 0.4
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.2
+    },
+    "CyHoBwKesiPmOND:Gamma": {
+      "gamma": 0
+    },
+    "CyHoBwKesiPmOND:Saturation": {
+      "saturation": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.8
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.2
+    },
+    "AGrUDDHkBYHpodF:Exposure": {
+      "exposure": 1.2
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": 0
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 0.4
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.1
+    },
+    "iTNCmaWpishTbty:Exposure": {
+      "exposure": 1
+    },
+    "iTNCmaWpishTbty:Gamma": {
+      "gamma": -0.9
+    }
+  },
+  {
+    "@states": [
+      "White+front"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.1
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.4
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.9
+    }
+  },
+  {
+    "@states": [
+      "White+frontLeft"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.9
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 50
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.2
+    }
+  },
+  {
+    "@states": [
+      "White+frontRight"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "RJLVTYvZHyIaJpo",
+      "lightMapIntensity": 75
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.2
+    }
+  },
+  {
+    "@states": [
+      "White+left"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.55
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 2
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -4
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 1
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.72
+    },
+    "YmlPswXiJMnOhti:Exposure": {
+      "exposure": 1.5
+    }
+  },
+  {
+    "@states": [
+      "White+right"
+    ],
+    "vXbOrtDfSZOxrnw:Exposure": {
+      "exposure": 0.3
+    },
+    "vXbOrtDfSZOxrnw:Gamma": {
+      "gamma": -0.2
+    },
+    "vXbOrtDfSZOxrnw:LightMap": {
+      "lightMap": "YgPfwRyXKvVCgiq",
+      "lightMapIntensity": 50
+    },
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 1
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "FcFGTxIkAjojgZG:Exposure": {
+      "exposure": -4
+    },
+    "FcFGTxIkAjojgZG:Transparency": {
+      "opacity": 1
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.9
+    },
+    "YmlPswXiJMnOhti:AoMap": {
+      "aoMapIntensity": 0.72
+    }
+  },
+  {
+    "@states": [
+      "White+frontTop",
+      "White+backTop"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.75
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.9
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.4
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": 0
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 1
+    },
+    "STFPouzRBEfDXqx:Saturation": {
+      "saturation": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.01
+    }
+  },
+  {
+    "@states": [
+      "White+frontBottom",
+      "White+backBottom"
+    ],
+    "CyHoBwKesiPmOND:Exposure": {
+      "exposure": 0.75
+    },
+    "ShMjkjUSElvGntX:Transparency": {
+      "opacity": 0.025
+    },
+    "XgOzbJnqzlaJFTM:Exposure": {
+      "exposure": 0.9
+    },
+    "LmCNWOsaSsXUJEG:Exposure": {
+      "exposure": -0.15
+    },
+    "hatwzEwWIGjgbem:Brightness": {
+      "brightness": 0
+    },
+    "hatwzEwWIGjgbem:Exposure": {
+      "exposure": 0
+    },
+    "hatwzEwWIGjgbem:Gamma": {
+      "gamma": 0
+    },
+    "STFPouzRBEfDXqx:Exposure": {
+      "exposure": 1
+    },
+    "iVzCHFKAaRqjQhl:Transparency": {
+      "opacity": 0.02
+    }
+  }
+]

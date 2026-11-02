@@ -1,0 +1,559 @@
+[
+  {
+    "series": "18",
+    "name": "iPhone 18 Pro",
+    "family": "18",
+    "scene": "pro18",
+    "theme": "dark",
+    "source": "https://www.apple.com/iphone-18-pro/",
+    "colors": [
+      {
+        "id": "burgundy",
+        "label": "Бургундия",
+        "hex": "#6d3547",
+        "state": "Plum"
+      },
+      {
+        "id": "glacier",
+        "label": "Ледниковый голубой",
+        "hex": "#b7c7d2",
+        "state": "Sky_Blue"
+      },
+      {
+        "id": "silver",
+        "label": "Серебристый",
+        "hex": "#d2d3d4",
+        "state": "Silver"
+      },
+      {
+        "id": "black",
+        "label": "Чёрный",
+        "hex": "#252629",
+        "state": "Black"
+      }
+    ],
+    "id": "pro18",
+    "price": 135000,
+    "brand": "apple"
+  },
+  {
+    "series": "18",
+    "name": "iPhone 18 Pro Max",
+    "family": "18",
+    "scene": "pro18",
+    "size": "max",
+    "theme": "dark",
+    "source": "https://www.apple.com/iphone-18-pro/",
+    "colors": [
+      {
+        "id": "burgundy",
+        "label": "Бургундия",
+        "hex": "#6d3547",
+        "state": "Plum"
+      },
+      {
+        "id": "glacier",
+        "label": "Ледниковый голубой",
+        "hex": "#b7c7d2",
+        "state": "Sky_Blue"
+      },
+      {
+        "id": "silver",
+        "label": "Серебристый",
+        "hex": "#d2d3d4",
+        "state": "Silver"
+      },
+      {
+        "id": "black",
+        "label": "Чёрный",
+        "hex": "#252629",
+        "state": "Black"
+      }
+    ],
+    "id": "pro18-max",
+    "price": 150000,
+    "brand": "apple"
+  },
+  {
+    "series": "17",
+    "name": "iPhone 17",
+    "family": "17",
+    "scene": "iphone17",
+    "theme": "light",
+    "source": "https://www.apple.com/iphone-17/",
+    "colors": [
+      {
+        "id": "lavender",
+        "label": "Лавандовый",
+        "hex": "#cbbfdf",
+        "state": "Purple"
+      },
+      {
+        "id": "sage",
+        "label": "Шалфей",
+        "hex": "#bccbb3",
+        "state": "Green"
+      },
+      {
+        "id": "mistblue",
+        "label": "Туманный голубой",
+        "hex": "#bdcddd",
+        "state": "Blue"
+      },
+      {
+        "id": "white",
+        "label": "Белый",
+        "hex": "#efefed",
+        "state": "White"
+      },
+      {
+        "id": "black",
+        "label": "Чёрный",
+        "hex": "#303337",
+        "state": "Black"
+      }
+    ],
+    "id": "iphone17",
+    "price": 90000,
+    "brand": "apple"
+  },
+  {
+    "series": "17",
+    "name": "iPhone 17 Pro",
+    "family": "17pro",
+    "scene": "pro17",
+    "theme": "dark",
+    "source": "https://www.apple.com/iphone-17-pro/",
+    "colors": [
+      {
+        "id": "cosmicorange",
+        "label": "Космический оранжевый",
+        "hex": "#ca7c45",
+        "state": "Orange"
+      },
+      {
+        "id": "deepblue",
+        "label": "Глубокий синий",
+        "hex": "#39465c",
+        "state": "Blue"
+      },
+      {
+        "id": "silver",
+        "label": "Серебристый",
+        "hex": "#d2d3d4",
+        "state": "Silver"
+      }
+    ],
+    "id": "pro17",
+    "price": 120000,
+    "brand": "apple"
+  },
+  {
+    "series": "17",
+    "name": "iPhone 17 Pro Max",
+    "family": "17pro",
+    "scene": "pro17",
+    "theme": "dark",
+    "source": "https://www.apple.com/iphone-17-pro/",
+    "colors": [
+      {
+        "id": "cosmicorange",
+        "label": "Космический оранжевый",
+        "hex": "#ca7c45",
+        "state": "Orange"
+      },
+      {
+        "id": "deepblue",
+        "label": "Глубокий синий",
+        "hex": "#39465c",
+        "state": "Blue"
+      },
+      {
+        "id": "silver",
+        "label": "Серебристый",
+        "hex": "#d2d3d4",
+        "state": "Silver"
+      }
+    ],
+    "id": "pro17-max",
+    "price": 135000,
+    "size": "max",
+    "brand": "apple"
+  },
+  {
+    "series": "17",
+    "name": "iPhone Air",
+    "family": "air",
+    "scene": "air",
+    "theme": "light",
+    "source": "https://www.apple.com/iphone-air/",
+    "colors": [
+      {
+        "id": "skyblue",
+        "label": "Небесно-голубой",
+        "hex": "#c8dbea",
+        "state": "Blue"
+      },
+      {
+        "id": "lightgold",
+        "label": "Светлое золото",
+        "hex": "#eee0ca",
+        "state": "Gold"
+      },
+      {
+        "id": "cloudwhite",
+        "label": "Облачный белый",
+        "hex": "#edeeeb",
+        "state": "White"
+      },
+      {
+        "id": "spaceblack",
+        "label": "Космический чёрный",
+        "hex": "#343534",
+        "state": "Black"
+      }
+    ],
+    "id": "air",
+    "price": 105000,
+    "brand": "apple"
+  },
+  {
+    "id": "s26",
+    "name": "Galaxy S26",
+    "brand": "samsung",
+    "scene": "s26",
+    "viewer": "samsung",
+    "price": 95000,
+    "storage": [
+      "256",
+      "512",
+      "1024"
+    ],
+    "colors": [
+      {
+        "id": "cobalt-violet",
+        "state": "cobalt-violet",
+        "label": "Кобальтовый фиолетовый",
+        "hex": "#5D5775"
+      },
+      {
+        "id": "sky-blue",
+        "state": "sky-blue",
+        "label": "Небесно-голубой",
+        "hex": "#A5C2D5"
+      },
+      {
+        "id": "black",
+        "state": "black",
+        "label": "Чёрный",
+        "hex": "#414143"
+      },
+      {
+        "id": "white",
+        "state": "white",
+        "label": "Белый",
+        "hex": "#E9E9E9"
+      },
+      {
+        "id": "silver-shadow",
+        "state": "silver-shadow",
+        "label": "Серебристый",
+        "hex": "#A3A3A9"
+      },
+      {
+        "id": "pink-gold",
+        "state": "pink-gold",
+        "label": "Розовое золото",
+        "hex": "#E7D2C7"
+      }
+    ],
+    "source": "https://www.samsung.com/us/smartphones/galaxy-s26/"
+  },
+  {
+    "id": "s26ultra",
+    "name": "Galaxy S26 Ultra",
+    "brand": "samsung",
+    "scene": "s26ultra",
+    "viewer": "samsung",
+    "price": 145000,
+    "storage": [
+      "256",
+      "512",
+      "1024"
+    ],
+    "colors": [
+      {
+        "id": "cobalt-violet",
+        "state": "cobalt-violet",
+        "label": "Кобальтовый фиолетовый",
+        "hex": "#5D5775"
+      },
+      {
+        "id": "sky-blue",
+        "state": "sky-blue",
+        "label": "Небесно-голубой",
+        "hex": "#A5C2D5"
+      },
+      {
+        "id": "white",
+        "state": "white",
+        "label": "Белый",
+        "hex": "#E9E9E9"
+      },
+      {
+        "id": "black",
+        "state": "black",
+        "label": "Чёрный",
+        "hex": "#414143"
+      },
+      {
+        "id": "silver-shadow",
+        "state": "silver-shadow",
+        "label": "Серебристый",
+        "hex": "#A3A3A9"
+      },
+      {
+        "id": "pink-gold",
+        "state": "pink-gold",
+        "label": "Розовое золото",
+        "hex": "#E7D2C7"
+      }
+    ],
+    "source": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/"
+  },
+  {
+    "id": "fold8",
+    "name": "Galaxy Z Fold8",
+    "brand": "samsung",
+    "scene": "fold8",
+    "viewer": "samsung",
+    "price": 180000,
+    "storage": [
+      "256",
+      "512",
+      "1024"
+    ],
+    "colors": [
+      {
+        "id": "graphite",
+        "state": "graphite",
+        "label": "Графитовый",
+        "hex": "#5F6367"
+      },
+      {
+        "id": "cream",
+        "state": "cream",
+        "label": "Кремовый",
+        "hex": "#F1F1EE"
+      },
+      {
+        "id": "lavender",
+        "state": "lavender",
+        "label": "Лавандовый",
+        "hex": "#BCB7CA"
+      },
+      {
+        "id": "pistachio",
+        "state": "pistachio",
+        "label": "Фисташковый",
+        "hex": "#ABC4C0"
+      }
+    ],
+    "source": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/"
+  },
+  {
+    "id": "fold8ultra",
+    "name": "Galaxy Z Fold8 Ultra",
+    "brand": "samsung",
+    "scene": "fold8ultra",
+    "viewer": "samsung",
+    "price": 210000,
+    "storage": [
+      "256",
+      "512",
+      "1024"
+    ],
+    "colors": [
+      {
+        "id": "graphite",
+        "state": "graphite",
+        "label": "Графитовый",
+        "hex": "#5F6367"
+      },
+      {
+        "id": "cream",
+        "state": "cream",
+        "label": "Кремовый",
+        "hex": "#F1F1EE"
+      },
+      {
+        "id": "violet-shadow",
+        "state": "violet-shadow",
+        "label": "Тёмно-фиолетовый",
+        "hex": "#686884"
+      },
+      {
+        "id": "green-shadow",
+        "state": "green-shadow",
+        "label": "Тёмно-зелёный",
+        "hex": "#ABC4C0"
+      }
+    ],
+    "source": "https://www.samsung.com/us/smartphones/galaxy-z-fold8-ultra/"
+  },
+  {
+    "id": "ps5",
+    "name": "PlayStation 5",
+    "brand": "sony",
+    "viewer": "sony",
+    "scene": "ps5",
+    "price": 65000,
+    "storage": [],
+    "colors": [
+      {
+        "id": "white",
+        "state": "White",
+        "label": "Белый",
+        "hex": "#eeeeef"
+      }
+    ],
+    "source": "https://www.playstation.com/en-us/ps5/",
+    "attribution": "Фото: PlayStation",
+    "presentation": "image"
+  },
+  {
+    "id": "airwrap",
+    "name": "Dyson Airwrap i.d.",
+    "brand": "dyson",
+    "viewer": "dyson",
+    "scene": "airwrap",
+    "price": null,
+    "storage": [],
+    "colors": [
+      {
+        "id": "plum-copper",
+        "state": "Plum_Copper",
+        "label": "Сливовый / медный",
+        "hex": "#703d35"
+      }
+    ],
+    "summary": "Стайлер · сливовый / медный",
+    "source": "https://www.dyson.com/hair-care/hair-stylers/airwrap-id/straight-wavy-plum-copper",
+    "presentation": "image"
+  },
+  {
+    "id": "macbook-air",
+    "name": "MacBook Air 13″ M5",
+    "brand": "apple",
+    "category": "mac",
+    "scene": "macbook-air",
+    "viewer": "photo",
+    "presentation": "image",
+    "price": 169990,
+    "priceNote": "Цена restore · 28.10.2026",
+    "priceCheckedAt": "2026-10-28",
+    "priceSource": "https://re-store.ru/catalog/MDH74/",
+    "storage": [],
+    "colors": [
+      {
+        "id": "default",
+        "state": "Default",
+        "label": "Серебристый",
+        "hex": "#d5d6d8"
+      }
+    ],
+    "summary": "M5 · 16 ГБ · 512 ГБ SSD · серебристый"
+  },
+  {
+    "id": "ipad-air",
+    "name": "iPad Air 11″ M4",
+    "brand": "apple",
+    "category": "ipad",
+    "scene": "ipad-air",
+    "viewer": "photo",
+    "presentation": "image",
+    "price": 84990,
+    "priceNote": "Цена restore · 28.10.2026",
+    "priceCheckedAt": "2026-10-28",
+    "priceSource": "https://re-store.ru/catalog/102AIR11M4W128GRY/",
+    "storage": [],
+    "colors": [
+      {
+        "id": "default",
+        "state": "Default",
+        "label": "Серый космос",
+        "hex": "#737479"
+      }
+    ],
+    "summary": "M4 · Wi-Fi · 128 ГБ · серый космос"
+  },
+  {
+    "id": "airpods-pro",
+    "name": "AirPods Pro 3",
+    "brand": "apple",
+    "category": "airpods",
+    "scene": "airpods-pro",
+    "viewer": "photo",
+    "presentation": "image",
+    "price": 25990,
+    "priceNote": "Цена restore · 28.10.2026",
+    "priceCheckedAt": "2026-10-28",
+    "priceSource": "https://re-store.ru/catalog/MFHP4/",
+    "storage": [],
+    "colors": [
+      {
+        "id": "default",
+        "state": "Default",
+        "label": "Белый",
+        "hex": "#eeeeef"
+      }
+    ],
+    "summary": "MagSafe USB-C · белый"
+  },
+  {
+    "id": "magic-mouse",
+    "name": "Magic Mouse USB-C",
+    "brand": "apple",
+    "category": "work",
+    "scene": "magic-mouse",
+    "viewer": "photo",
+    "presentation": "image",
+    "price": 15990,
+    "priceNote": "Цена restore · 28.10.2026",
+    "priceCheckedAt": "2026-10-28",
+    "priceSource": "https://re-store.ru/catalog/MXK53/",
+    "storage": [],
+    "colors": [
+      {
+        "id": "default",
+        "state": "Default",
+        "label": "Белый",
+        "hex": "#eeeeef"
+      }
+    ],
+    "summary": "USB-C · белый"
+  },
+  {
+    "id": "magsafe",
+    "name": "MagSafe Charger",
+    "brand": "apple",
+    "category": "accessories",
+    "scene": "magsafe",
+    "viewer": "photo",
+    "presentation": "image",
+    "price": 5990,
+    "priceNote": "Цена restore · 28.10.2026",
+    "priceCheckedAt": "2026-10-28",
+    "priceSource": "https://re-store.ru/catalog/MGD74/",
+    "storage": [],
+    "colors": [
+      {
+        "id": "default",
+        "state": "Default",
+        "label": "Белый",
+        "hex": "#eeeeef"
+      }
+    ],
+    "summary": "25 Вт · кабель 1 м · белый"
+  }
+]

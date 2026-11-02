@@ -1,0 +1,22 @@
+{
+  "macbook-air": {
+    "name": "MacBook Air 13″ M5",
+    "src": "macbook-air.webp"
+  },
+  "ipad-air": {
+    "name": "iPad Air 11″ M4",
+    "src": "ipad-air.webp"
+  },
+  "airpods-pro": {
+    "name": "AirPods Pro 3",
+    "src": "airpods-pro.webp"
+  },
+  "magic-mouse": {
+    "name": "Magic Mouse USB-C",
+    "src": "magic-mouse.webp"
+  },
+  "magsafe": {
+    "name": "MagSafe Charger",
+    "src": "magsafe.webp"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "intro": {
+    "camera_360:InteractiveCamera": {
+      "theta": [
+        {
+          "start": 0.0,
+          "end": 0.73333,
+          "startValue": 0.0,
+          "endValue": 0.0,
+          "easeFunction": [
+            0.43939,
+            0.0,
+            0.66667,
+            0.0
+          ]
+        },
+        {
+          "start": 0.73333,
+          "end": 1.7,
+          "startValue": 0.0,
+          "endValue": -3.40357,
+          "easeFunction": [
+            0.33333,
+            0.0,
+            0.53354,
+            0.87794
+          ]
+        },
+        {
+          "start": 1.7,
+          "end": 2.3,
+          "startValue": -3.40357,
+          "endValue": -3.69626,
+          "easeFunction": [
+            0.36814,
+            0.69528,
+            0.45774,
+            0.77536
+          ]
+        },
+        {
+          "start": 2.3,
+          "end": 2.56667,
+          "startValue": -3.69626,
+          "endValue": -3.72379,
+          "easeFunction": [
+            0.54626,
+            1.06936,
+            0.66667,
+            1.0
+          ]
+        },
+        {
+          "start": 2.56667,
+          "end": 3.36667,
+          "startValue": -3.72379,
+          "endValue": -2.3561,
+          "easeFunction": [
+            0.59325,
+            0.0,
+            0.45845,
+            1.0
+          ]
+        }
+      ]
+    },
+    "BVEqaYEXvanqhBh": {
+      "rotationX": [
+        {
+          "start": 0.0,
+          "end": 0.73333,
+          "startValue": -0.00018,
+          "endValue": -0.00018,
+          "easeFunction": [
+            0.43939,
+            0.0,
+            0.56061,
+            0.0
+          ]
+        },
+        {
+          "start": 0.73333,
+          "end": 0.9,
+          "startValue": -0.00018,
+          "endValue": -0.00018,
+          "easeFunction": [
+            1.93333,
+            0.0,
+            -0.11406,
+            0.0
+          ]
+        },
+        {
+          "start": 0.9,
+          "end": 1.93333,
+          "startValue": -0.00018,
+          "endValue": -0.32507,
+          "easeFunction": [
+            0.48076,
+            0.0,
+            0.52576,
+            0.92299
+          ]
+        },
+        {
+          "start": 1.93333,
+          "end": 2.3,
+          "startValue": -0.32507,
+          "endValue": -0.34018,
+          "easeFunction": [
+            0.58056,
+            0.71904,
+            0.28073,
+            0.94233
+          ]
+        },
+        {
+          "start": 2.3,
+          "end": 2.56667,
+          "startValue": -0.34018,
+          "endValue": -0.34036,
+          "easeFunction": [
+            0.4726,
+            -2.41242,
+            0.66667,
+            1.0
+          ]
+        },
+        {
+          "start": 2.56667,
+          "end": 3.36667,
+          "startValue": -0.34036,
+          "endValue": 0.0,
+          "easeFunction": [
+            0.59325,
+            0.0,
+            0.20217,
+            1.0
+          ]
+        }
+      ],
+      "rotationY": [
+        {
+          "start": 0.0,
+          "end": 0.73333,
+          "startValue": 0.0,
+          "endValue": 0.0,
+          "easeFunction": [
+            0.3122,
+            0.0,
+            0.6878,
+            0.0
+          ]
+        },
+        {
+          "start": 0.73333,
+          "end": 1.1,
+          "startValue": 0.0,
+          "endValue": -0.20731,
+          "easeFunction": [
+            0.6244,
+            0.0,
+            0.73392,
+            1.0
+          ]
+        },
+        {
+          "start": 1.1,
+          "end": 1.46667,
+          "startValue": -0.20731,
+          "endValue": 0.09505,
+          "easeFunction": [
+            0.26608,
+            0.0,
+            0.20123,
+            1.0
+          ]
+        },
+        {
+          "start": 1.46667,
+          "end": 2.56667,
+          "startValue": 0.09505,
+          "endValue": 0.09505,
+          "easeFunction": [
+            0.44807,
+            0.0,
+            0.787,
+            0.0
+          ]
+        },
+        {
+          "start": 2.56667,
+          "end": 3.36667,
+          "startValue": 0.09505,
+          "endValue": 0.0,
+          "easeFunction": [
+            0.49288,
+            0.0,
+            0.6339,
+            1.0
+          ]
+        }
+      ]
+    }
+  },
+  "hint": {
+    "camera_360:InteractiveCamera": {
+      "theta": [
+        {
+          "start": 0.0,
+          "end": 0.56667,
+          "startValue": -2.3561,
+          "endValue": -3.14177,
+          "easeFunction": [
+            0.76453,
+            0.0,
+            0.23547,
+            1.0
+          ]
+        },
+        {
+          "start": 0.56667,
+          "end": 1.16667,
+          "startValue": -3.14177,
+          "endValue": -2.3561,
+          "easeFunction": [
+            0.72206,
+            0.0,
+            0.27794,
+            1.0
+          ]
+        }
+      ],
+      "phi": [
+        {
+          "start": 0.0,
+          "end": 0.001,
+          "startValue": 1.5707,
+          "endValue": 1.5707,
+          "easeFunction": [
+            0.76453,
+            0.0,
+            0.23547,
+            1.0
+          ]
+        }
+      ]
+    }
+  }
+}

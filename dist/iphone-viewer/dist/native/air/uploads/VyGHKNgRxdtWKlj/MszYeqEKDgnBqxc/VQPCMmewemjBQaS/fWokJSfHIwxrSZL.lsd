@@ -1,0 +1,684 @@
+[
+  {
+    "@states": [
+      "Black"
+    ],
+    "NtNSwEIIFmIbXaY": {
+      "colorB": 0.005317720118910074,
+      "colorG": 0.00542287016287446,
+      "colorR": 0.005335019901394844,
+      "diffuseColor": null,
+      "roughness": 0.17499999701976776
+    },
+    "FlLSqVMtyeBjJWS": {
+      "colorB": 0.004999999888241291,
+      "colorG": 0.004872499965131283,
+      "colorR": 0.004699999932199717,
+      "diffuseColor": null,
+      "emissiveB": 0.0,
+      "emissiveG": 0.0,
+      "emissiveR": 0.0,
+      "inputs:metallic": 0.0,
+      "metallic": 0.20000000298023224
+    },
+    "MZiYIrcFSqDDBWG": {
+      "map": "HEPBkrpczNEdBQF",
+      "metallic": 0.20000000298023224
+    },
+    "ZoizrWFccovSVQl": {
+      "map": "VKBChXDeAcgSOGE"
+    },
+    "kfznWrsgNwJlryW": {
+      "clearcoat": 0.5
+    },
+    "IkcytKluBjBXquC": {},
+    "pjiDMCjIcCDRUhz": {
+      "colorB": 0.8500000238418579,
+      "colorG": 0.697547972202301,
+      "colorR": 0.5261499881744385,
+      "diffuseColor": null,
+      "metallic": 0.20000000298023224
+    },
+    "rDxDuNUnYMxIFFC": {
+      "aoMap": "VhQBPqMaTRSvvwW",
+      "colorB": 0.03310500085353851,
+      "colorG": 0.03068700060248375,
+      "colorR": 0.028908999636769295,
+      "diffuseColor": null,
+      "inputs:alpha_mode": 0,
+      "inputs:clearcoat": 0.0,
+      "metallic": 1.0,
+      "opacity": 1.0,
+      "roughnessMap": "nWwuudcRgbsvUcP"
+    },
+    "sDNVyKDhKNBHEst": {
+      "clearcoat": 0.5
+    },
+    "WyciOzdXwGGlfyl": {
+      "colorB": 1.0,
+      "colorG": 1.0,
+      "colorR": 1.0,
+      "diffuseColor": null
+    },
+    "ixdEQTtZsWDnJLg": {
+      "map": "CXUdaxUwIoXuQxr"
+    },
+    "NTQuwUynEytdoDZ": {
+      "colorB": 0.44798800349235535,
+      "colorG": 0.44798800349235535,
+      "colorR": 0.44798800349235535,
+      "diffuseColor": null
+    },
+    "wcxQINsmtPYtnAi": {
+      "clearcoat": 0.5
+    },
+    "ZgMnqnyPATyacDv": {
+      "alpha_mode": 2.0,
+      "colorB": 0.009563540108501911,
+      "colorG": 0.010022800415754318,
+      "colorR": 0.010022800415754318,
+      "diffuseColor": null,
+      "inputs:alpha": 0.0
+    },
+    "bITIVwEieGnzTxC": {
+      "alpha_mode": 2.0,
+      "clearcoat": 0.20000000298023224,
+      "colorB": 0.005480090156197548,
+      "colorG": 0.005642320029437542,
+      "colorR": 0.005642320029437542,
+      "diffuseColor": null,
+      "metallic": 0.20000000298023224,
+      "opacity": 0.5,
+      "roughness": 0.10000000149011612
+    },
+    "trJidQvKAjIlfOd": {
+      "specularColorB": 0.0,
+      "specularColorG": 0.0,
+      "specularColorR": 0.0
+    },
+    "VNJQamgZCBwIlKo": {
+      "map": "AbuYbHuXUPMDXAo"
+    },
+    "fLpLdljdfBpqXkO": {
+      "colorB": 0.10048100352287292,
+      "colorG": 0.09241309762001038,
+      "colorR": 0.08650580048561096,
+      "diffuseColor": null
+    },
+    "pkUBCyCvYJYVzTr": {
+      "clearcoat": 0.25,
+      "emissiveIntensity": 1.0,
+      "emissiveMap": "OjBzRKnrdyemOMH",
+      "inhigh": null
+    },
+    "kZkIRyfgTGLpwyO": {
+      "colorB": 0.03310500085353851,
+      "colorG": 0.03068700060248375,
+      "colorR": 0.028908999636769295,
+      "diffuseColor": null
+    },
+    "hAKVdrzztJgljCR": {
+      "map": "GziLjxhWFFczAhp"
+    },
+    "KBOivNPTSocibmQ": {
+      "colorB": 0.021981000900268555,
+      "colorG": 0.020455999299883842,
+      "colorR": 0.019331999123096466,
+      "diffuseColor": null
+    },
+    "yqGXXGiYPXPjEqj": {
+      "colorB": 0.03310000151395798,
+      "colorG": 0.03060000017285347,
+      "colorR": 0.02889999933540821
+    },
+    "OwqobJiNTlvAFyj": {
+      "clearcoat": 0.20000000298023224,
+      "colorB": 0.0500790998339653,
+      "colorG": 0.04957880079746246,
+      "colorR": 0.049198299646377563,
+      "diffuseColor": null,
+      "inputs:clearcoat": 0.0,
+      "roughness": 0.800000011920929
+    },
+    "lrXfpZcYrByzvym": {
+      "colorB": 0.033104799687862396,
+      "colorG": 0.031093299388885498,
+      "colorR": 0.029082199558615685,
+      "diffuseColor": null,
+      "roughness": 0.05999999865889549,
+      "value": null
+    },
+    "HdfTFdlfliPUKHz": {
+      "colorB": 0.02721180021762848,
+      "colorG": 0.02721180021762848,
+      "colorR": 0.02721180021762848,
+      "diffuseColor": null,
+      "metallic": 0.20000000298023224
+    },
+    "VjmnlyhkHVcfevT": {
+      "colorB": 0.06372380256652832,
+      "colorG": 0.06228179857134819,
+      "colorR": 0.060326799750328064,
+      "diffuseColor": null,
+      "metallic": 0.20000000298023224
+    },
+    "SowZyynPZmLdELi": {
+      "clearcoat": 0.20000000298023224,
+      "colorB": 0.010022800415754318,
+      "colorG": 0.010022800415754318,
+      "colorR": 0.010022800415754318,
+      "diffuseColor": null,
+      "metallic": 0.20000000298023224
+    }
+  },
+  {
+    "@states": [
+      "Blue"
+    ],
+    "NtNSwEIIFmIbXaY": {
+      "colorB": 0.44798800349235535,
+      "colorG": 0.40443798899650574,
+      "colorR": 0.3546920120716095,
+      "diffuseColor": null,
+      "roughness": 0.25999999046325684
+    },
+    "FlLSqVMtyeBjJWS": {
+      "colorB": 0.0039160000160336494,
+      "colorG": 0.003968790173530579,
+      "colorR": 0.004000000189989805,
+      "diffuseColor": null,
+      "emissiveB": 0.8999999761581421,
+      "emissiveG": 0.7775899767875671,
+      "emissiveR": 0.6119999885559082,
+      "metallic": 0.10000000149011612
+    },
+    "MZiYIrcFSqDDBWG": {
+      "map": "amXKUxEDqxXlPzA",
+      "metallic": 0.10000000149011612
+    },
+    "ZoizrWFccovSVQl": {
+      "map": "cnRlnpLQnWhNfxr"
+    },
+    "kfznWrsgNwJlryW": {
+      "clearcoat": 0.5
+    },
+    "IkcytKluBjBXquC": {},
+    "pjiDMCjIcCDRUhz": {
+      "colorB": 0.8500000238418579,
+      "colorG": 0.697547972202301,
+      "colorR": 0.5261499881744385,
+      "diffuseColor": null,
+      "metallic": 1.0
+    },
+    "rDxDuNUnYMxIFFC": {
+      "alpha_mode": 2.0,
+      "aoMap": "VhQBPqMaTRSvvwW",
+      "clearcoat": 1.0,
+      "colorB": 0.800000011920929,
+      "colorG": 0.6480600237846375,
+      "colorR": 0.47839999198913574,
+      "diffuseColor": null,
+      "metallic": 1.0,
+      "opacity": 0.699999988079071,
+      "roughnessMap": "BHVnxBhqCWvBLAd"
+    },
+    "sDNVyKDhKNBHEst": {
+      "clearcoat": 0.5
+    },
+    "WyciOzdXwGGlfyl": {
+      "colorB": 1.0,
+      "colorG": 1.0,
+      "colorR": 1.0,
+      "diffuseColor": null
+    },
+    "ixdEQTtZsWDnJLg": {
+      "map": "CXUdaxUwIoXuQxr"
+    },
+    "NTQuwUynEytdoDZ": {
+      "colorB": 0.8339999914169312,
+      "colorG": 0.6729109883308411,
+      "colorR": 0.4903919994831085,
+      "diffuseColor": null
+    },
+    "wcxQINsmtPYtnAi": {
+      "clearcoat": 0.5
+    },
+    "ZgMnqnyPATyacDv": {
+      "colorB": 0.9769999980926514,
+      "colorG": 0.7844629883766174,
+      "colorR": 0.443558007478714,
+      "diffuseColor": null,
+      "inputs:alpha_mode": null,
+      "opacity": 1.0
+    },
+    "bITIVwEieGnzTxC": {
+      "alpha_mode": 2.0,
+      "colorB": 0.8500000238418579,
+      "colorG": 0.6222389936447144,
+      "colorR": 0.3680500090122223,
+      "diffuseColor": null,
+      "inputs:clearcoat": 0.0,
+      "metallic": 0.20000000298023224,
+      "opacity": 0.800000011920929,
+      "roughness": 0.05999999865889549
+    },
+    "trJidQvKAjIlfOd": {
+      "specularColorB": 0.7874119877815247,
+      "specularColorG": 0.6946470141410828,
+      "specularColorR": 0.5903559923171997
+    },
+    "VNJQamgZCBwIlKo": {
+      "map": "waXErUKNuKgHDwQ"
+    },
+    "fLpLdljdfBpqXkO": {
+      "colorB": 0.5225210189819336,
+      "colorG": 0.46408599615097046,
+      "colorR": 0.3980900049209595,
+      "diffuseColor": null
+    },
+    "pkUBCyCvYJYVzTr": {
+      "clearcoat": 0.75,
+      "emissiveIntensity": 1.0,
+      "emissiveMap": "FXKmHsAVHfWmqFa",
+      "inhigh": null
+    },
+    "kZkIRyfgTGLpwyO": {
+      "colorB": 0.6038269996643066,
+      "colorG": 0.5275200009346008,
+      "colorR": 0.44231298565864563,
+      "diffuseColor": null
+    },
+    "hAKVdrzztJgljCR": {
+      "map": "tsMQUxGOaMqyYsD"
+    },
+    "KBOivNPTSocibmQ": {
+      "colorB": 0.6038269996643066,
+      "colorG": 0.5275200009346008,
+      "colorR": 0.44231298565864563,
+      "diffuseColor": null
+    },
+    "yqGXXGiYPXPjEqj": {
+      "colorB": 0.8339999914169312,
+      "colorG": 0.7120100259780884,
+      "colorR": 0.5737919807434082
+    },
+    "OwqobJiNTlvAFyj": {
+      "clearcoat": 0.5,
+      "colorB": 0.9769999980926514,
+      "colorG": 0.7460600137710571,
+      "colorR": 0.4787299931049347,
+      "diffuseColor": null,
+      "roughness": 1.0
+    },
+    "lrXfpZcYrByzvym": {
+      "colorB": 0.6039999723434448,
+      "colorG": 0.48129498958587646,
+      "colorR": 0.3442800045013428,
+      "diffuseColor": null,
+      "roughness": 0.05999999865889549,
+      "value": null
+    },
+    "HdfTFdlfliPUKHz": {
+      "colorB": 0.8339999914169312,
+      "colorG": 0.7120100259780884,
+      "colorR": 0.5737919807434082,
+      "diffuseColor": null,
+      "metallic": 0.02500000037252903
+    },
+    "VjmnlyhkHVcfevT": {
+      "colorB": 0.8339999914169312,
+      "colorG": 0.6572710275650024,
+      "colorR": 0.4570319950580597,
+      "diffuseColor": null,
+      "metallic": 0.026799999177455902
+    },
+    "SowZyynPZmLdELi": {
+      "clearcoat": 0.5,
+      "colorB": 0.8688989877700806,
+      "colorG": 0.8103340268135071,
+      "colorR": 0.7373200058937073,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612
+    }
+  },
+  {
+    "@states": [
+      "Gold"
+    ],
+    "NtNSwEIIFmIbXaY": {
+      "colorB": 0.38329899311065674,
+      "colorG": 0.4757060110569,
+      "colorR": 0.5225210189819336,
+      "diffuseColor": null,
+      "roughness": 0.25999999046325684
+    },
+    "FlLSqVMtyeBjJWS": {
+      "colorB": 0.8113679885864258,
+      "colorG": 0.8672930002212524,
+      "colorR": 0.8900049924850464,
+      "diffuseColor": null,
+      "emissiveB": 0.5167999863624573,
+      "emissiveG": 0.7318310141563416,
+      "emissiveR": 0.8500000238418579,
+      "metallic": 0.10000000149011612
+    },
+    "MZiYIrcFSqDDBWG": {
+      "map": "BcnFhUVNFzRMIzM",
+      "metallic": 0.10000000149011612
+    },
+    "ZoizrWFccovSVQl": {
+      "map": "OLYBnbVmwDbkVCr"
+    },
+    "kfznWrsgNwJlryW": {
+      "clearcoat": 0.5
+    },
+    "IkcytKluBjBXquC": {},
+    "pjiDMCjIcCDRUhz": {
+      "colorB": 0.8500000238418579,
+      "colorG": 0.697547972202301,
+      "colorR": 0.5261499881744385,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612
+    },
+    "rDxDuNUnYMxIFFC": {
+      "alpha_mode": 2.0,
+      "aoMap": "VhQBPqMaTRSvvwW",
+      "clearcoat": 1.0,
+      "colorB": 0.10995899885892868,
+      "colorG": 0.13722500205039978,
+      "colorR": 0.15106800198554993,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612,
+      "opacity": 0.699999988079071,
+      "roughnessMap": "BHVnxBhqCWvBLAd"
+    },
+    "sDNVyKDhKNBHEst": {
+      "clearcoat": 0.5
+    },
+    "WyciOzdXwGGlfyl": {
+      "colorB": 1.0,
+      "colorG": 1.0,
+      "colorR": 1.0,
+      "diffuseColor": null
+    },
+    "ixdEQTtZsWDnJLg": {
+      "map": "CXUdaxUwIoXuQxr"
+    },
+    "NTQuwUynEytdoDZ": {
+      "colorB": 0.44798800349235535,
+      "colorG": 0.44798800349235535,
+      "colorR": 0.44798800349235535,
+      "diffuseColor": null
+    },
+    "wcxQINsmtPYtnAi": {
+      "clearcoat": 0.5
+    },
+    "ZgMnqnyPATyacDv": {
+      "colorB": 0.891281008720398,
+      "colorG": 0.9225460290908813,
+      "colorR": 0.9331070184707642,
+      "diffuseColor": null,
+      "inputs:alpha_mode": null,
+      "opacity": 1.0
+    },
+    "bITIVwEieGnzTxC": {
+      "alpha_mode": 2.0,
+      "clearcoat": 0.20000000298023224,
+      "colorB": 0.790582001209259,
+      "colorG": 0.9038400053977966,
+      "colorR": 0.9551050066947937,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612,
+      "opacity": 0.800000011920929,
+      "roughness": 0.10000000149011612
+    },
+    "trJidQvKAjIlfOd": {
+      "specularColorB": 0.0,
+      "specularColorG": 0.0,
+      "specularColorR": 0.0
+    },
+    "VNJQamgZCBwIlKo": {
+      "map": "jEzyrDjAVjVNjmZ"
+    },
+    "fLpLdljdfBpqXkO": {
+      "colorB": 0.4132080078125,
+      "colorG": 0.48441898822784424,
+      "colorR": 0.5225210189819336,
+      "diffuseColor": null
+    },
+    "pkUBCyCvYJYVzTr": {
+      "clearcoat": 0.75,
+      "emissiveMap": "lfjjflKBAEwgfbg",
+      "inhigh": null,
+      "inputs:emissive_strength": null
+    },
+    "kZkIRyfgTGLpwyO": {
+      "colorB": 0.43108901381492615,
+      "colorG": 0.5424720048904419,
+      "colorR": 0.6038269996643066,
+      "diffuseColor": null
+    },
+    "hAKVdrzztJgljCR": {
+      "map": "asvvXiCDOKMlxfB"
+    },
+    "KBOivNPTSocibmQ": {
+      "colorB": 0.43108901381492615,
+      "colorG": 0.5424749851226807,
+      "colorR": 0.6038269996643066,
+      "diffuseColor": null
+    },
+    "yqGXXGiYPXPjEqj": {
+      "colorB": 0.47699999809265137,
+      "colorG": 0.6531810164451599,
+      "colorR": 0.75
+    },
+    "OwqobJiNTlvAFyj": {
+      "clearcoat": 0.5,
+      "colorB": 0.8289980292320251,
+      "colorG": 0.9263479709625244,
+      "colorR": 0.9774019718170166,
+      "diffuseColor": null,
+      "roughness": 1.0
+    },
+    "lrXfpZcYrByzvym": {
+      "colorB": 0.28387999534606934,
+      "colorG": 0.5016949772834778,
+      "colorR": 0.6039999723434448,
+      "diffuseColor": null,
+      "roughness": 0.05999999865889549,
+      "value": null
+    },
+    "HdfTFdlfliPUKHz": {
+      "colorB": 0.9551050066947937,
+      "colorG": 0.992434024810791,
+      "colorR": 1.0,
+      "diffuseColor": null,
+      "metallic": 0.02500000037252903
+    },
+    "VjmnlyhkHVcfevT": {
+      "colorB": 0.8275709748268127,
+      "colorG": 0.9462699890136719,
+      "colorR": 1.0,
+      "diffuseColor": null,
+      "metallic": 0.026799999177455902
+    },
+    "SowZyynPZmLdELi": {
+      "clearcoat": 0.5,
+      "colorB": 0.790582001209259,
+      "colorG": 0.9038400053977966,
+      "colorR": 0.9551050066947937,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612
+    }
+  },
+  {
+    "@states": [
+      "White"
+    ],
+    "NtNSwEIIFmIbXaY": {
+      "colorB": 0.7059159874916077,
+      "colorG": 0.7255679965019226,
+      "colorR": 0.7388449907302856,
+      "diffuseColor": null,
+      "roughness": 0.25999999046325684
+    },
+    "FlLSqVMtyeBjJWS": {
+      "colorB": 0.6650000214576721,
+      "colorG": 0.6480000019073486,
+      "colorR": 0.625,
+      "diffuseColor": null,
+      "emissiveB": 0.9300000071525574,
+      "emissiveG": 0.9300000071525574,
+      "emissiveR": 0.9300000071525574,
+      "metallic": 0.10000000149011612
+    },
+    "MZiYIrcFSqDDBWG": {
+      "map": "vvpQBFwABXVbxTU",
+      "metallic": 0.10000000149011612
+    },
+    "ZoizrWFccovSVQl": {
+      "map": "boRZArZaUgYMZym"
+    },
+    "kfznWrsgNwJlryW": {
+      "clearcoat": 0.5
+    },
+    "IkcytKluBjBXquC": {},
+    "pjiDMCjIcCDRUhz": {
+      "colorB": 0.8500000238418579,
+      "colorG": 0.697547972202301,
+      "colorR": 0.5261499881744385,
+      "diffuseColor": null,
+      "inputs:metallic": 0.0
+    },
+    "rDxDuNUnYMxIFFC": {
+      "alpha_mode": 2.0,
+      "aoMap": "VhQBPqMaTRSvvwW",
+      "clearcoat": 1.0,
+      "colorB": 0.47699999809265137,
+      "colorG": 0.47699999809265137,
+      "colorR": 0.47699999809265137,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612,
+      "opacity": 0.699999988079071,
+      "roughnessMap": "BHVnxBhqCWvBLAd"
+    },
+    "sDNVyKDhKNBHEst": {
+      "clearcoat": 0.5
+    },
+    "WyciOzdXwGGlfyl": {
+      "colorB": 1.0,
+      "colorG": 1.0,
+      "colorR": 1.0,
+      "diffuseColor": null
+    },
+    "ixdEQTtZsWDnJLg": {
+      "map": "CXUdaxUwIoXuQxr"
+    },
+    "NTQuwUynEytdoDZ": {
+      "colorB": 0.44798800349235535,
+      "colorG": 0.44798800349235535,
+      "colorR": 0.44798800349235535,
+      "diffuseColor": null
+    },
+    "wcxQINsmtPYtnAi": {
+      "clearcoat": 0.5
+    },
+    "ZgMnqnyPATyacDv": {
+      "colorB": 0.9886630177497864,
+      "colorG": 1.0,
+      "colorR": 0.9774019718170166,
+      "diffuseColor": null,
+      "inputs:alpha_mode": null,
+      "opacity": 1.0
+    },
+    "bITIVwEieGnzTxC": {
+      "alpha_mode": 2.0,
+      "clearcoat": 0.20000000298023224,
+      "colorB": 0.9886639714241028,
+      "colorG": 1.0,
+      "colorR": 0.9774019718170166,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612,
+      "opacity": 0.800000011920929,
+      "roughness": 0.10000000149011612
+    },
+    "trJidQvKAjIlfOd": {
+      "specularColorB": 0.0,
+      "specularColorG": 0.0,
+      "specularColorR": 0.0
+    },
+    "VNJQamgZCBwIlKo": {
+      "map": "uDuJIsGuCLFXpdf"
+    },
+    "fLpLdljdfBpqXkO": {
+      "colorB": 0.5109140276908875,
+      "colorG": 0.5186600089073181,
+      "colorR": 0.5225210189819336,
+      "diffuseColor": null
+    },
+    "pkUBCyCvYJYVzTr": {
+      "clearcoat": 0.75,
+      "emissiveMap": "HpKlYWhknZReXOX",
+      "inhigh": null,
+      "inputs:emissive_strength": null
+    },
+    "kZkIRyfgTGLpwyO": {
+      "colorB": 0.8699480295181274,
+      "colorG": 0.8833190202713013,
+      "colorR": 0.8900049924850464,
+      "diffuseColor": null
+    },
+    "hAKVdrzztJgljCR": {
+      "map": "WhLLnOddYiOxJUf"
+    },
+    "KBOivNPTSocibmQ": {
+      "colorB": 0.731544017791748,
+      "colorG": 0.7425150275230408,
+      "colorR": 0.7480000257492065,
+      "diffuseColor": null
+    },
+    "yqGXXGiYPXPjEqj": {
+      "colorB": 0.8700000047683716,
+      "colorG": 0.8830000162124634,
+      "colorR": 0.8899999856948853
+    },
+    "OwqobJiNTlvAFyj": {
+      "clearcoat": 0.5,
+      "colorB": 0.9335439801216125,
+      "colorG": 0.9479179978370667,
+      "colorR": 0.9551050066947937,
+      "diffuseColor": null,
+      "roughness": 1.0
+    },
+    "lrXfpZcYrByzvym": {
+      "colorB": 0.8724300265312195,
+      "colorG": 0.8857259750366211,
+      "colorR": 0.892316997051239,
+      "diffuseColor": null,
+      "roughness": 0.05999999865889549,
+      "value": null
+    },
+    "HdfTFdlfliPUKHz": {
+      "colorB": 0.9774019718170166,
+      "colorG": 0.9774019718170166,
+      "colorR": 0.9774019718170166,
+      "diffuseColor": null,
+      "metallic": 0.02500000037252903
+    },
+    "VjmnlyhkHVcfevT": {
+      "colorB": 0.9225460290908813,
+      "colorG": 0.9331070184707642,
+      "colorR": 0.9120540022850037,
+      "diffuseColor": null,
+      "metallic": 0.026799999177455902
+    },
+    "SowZyynPZmLdELi": {
+      "clearcoat": 0.5,
+      "colorB": 0.9225450158119202,
+      "colorG": 0.9331070184707642,
+      "colorR": 0.9120540022850037,
+      "diffuseColor": null,
+      "metallic": 0.10000000149011612
+    }
+  }
+]

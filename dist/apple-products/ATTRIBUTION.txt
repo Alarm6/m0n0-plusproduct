@@ -1,0 +1,1 @@
+Official photography: Apple Inc. Source URLs: sources.json. Prices checked at restore 2026-10-28; fixed prototype prices, not automatically updated. Individual price sources are recorded in catalog-products.json.

@@ -1,0 +1,32 @@
+[
+  {
+    "@states": [
+      "frontTop",
+      "backTop",
+      "back",
+      "backRight",
+      "right",
+      "frontRight",
+      "front",
+      "frontLeft",
+      "left",
+      "backLeft",
+      "backBottom",
+      "frontBottom"
+    ],
+    "qfHsRTzcUxHXtbz:CameraMixer": {
+      "mix": 0
+    }
+  },
+  {
+    "@states": [
+      "PT_001",
+      "PT_002",
+      "PT_003",
+      "PT_004"
+    ],
+    "qfHsRTzcUxHXtbz:CameraMixer": {
+      "mix": 1
+    }
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "@states": [
+      "PT_backBottom"
+    ],
+    "bqjgzNBcRsbXpui": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 3.0,
+      "positionZ": -0.342
+    },
+    "JVDwnioPKJgvCwW": {
+      "rotationX": 0.95993,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JpSUNQDozMfDblA": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 15.0
+    },
+    "ICfPxMhCLeZvhMl": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "gwBqaRPWYtbhjSA": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "YVlLJpMagdlQRKj": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 20.0
+    },
+    "icRIoUeRPJBhWQe": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "aWPLIVPwjLijYXf": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "PdCqlruJeqUDJGT": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 30.0
+    },
+    "jpdkPOkGUpKKFXd": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "XdkBOQxFfqNzHWm": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    }
+  },
+  {
+    "@states": [
+      "PT_frontBottom"
+    ],
+    "bqjgzNBcRsbXpui": {
+      "rotationX": 0.0,
+      "rotationY": 3.14159,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 3.0,
+      "positionZ": 0.34228
+    },
+    "JVDwnioPKJgvCwW": {
+      "rotationX": 0.95993,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JpSUNQDozMfDblA": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 15.0
+    },
+    "ICfPxMhCLeZvhMl": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "gwBqaRPWYtbhjSA": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "YVlLJpMagdlQRKj": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 20.0
+    },
+    "icRIoUeRPJBhWQe": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "aWPLIVPwjLijYXf": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "PdCqlruJeqUDJGT": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 30.0
+    },
+    "jpdkPOkGUpKKFXd": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "XdkBOQxFfqNzHWm": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    }
+  },
+  {
+    "@states": [
+      "PT_frontRight"
+    ],
+    "bqjgzNBcRsbXpui": {
+      "rotationX": 0.0,
+      "rotationY": 2.35619,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.25,
+      "positionY": 3.1,
+      "positionZ": 0.0
+    },
+    "JVDwnioPKJgvCwW": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JpSUNQDozMfDblA": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 25.0
+    },
+    "ICfPxMhCLeZvhMl": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "gwBqaRPWYtbhjSA": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "YVlLJpMagdlQRKj": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 25.0
+    },
+    "icRIoUeRPJBhWQe": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "aWPLIVPwjLijYXf": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "PdCqlruJeqUDJGT": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 29.0
+    },
+    "jpdkPOkGUpKKFXd": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "XdkBOQxFfqNzHWm": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    }
+  },
+  {
+    "@states": [
+      "PT_backLeft"
+    ],
+    "bqjgzNBcRsbXpui": {
+      "rotationX": 0.0,
+      "rotationY": -0.7854,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": -0.25,
+      "positionY": 3.1,
+      "positionZ": 0.0
+    },
+    "JVDwnioPKJgvCwW": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JpSUNQDozMfDblA": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 1.0,
+      "positionZ": 20.0
+    },
+    "ICfPxMhCLeZvhMl": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "gwBqaRPWYtbhjSA": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "YVlLJpMagdlQRKj": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 29.0
+    },
+    "icRIoUeRPJBhWQe": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "aWPLIVPwjLijYXf": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "PdCqlruJeqUDJGT": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 29.0
+    },
+    "jpdkPOkGUpKKFXd": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "XdkBOQxFfqNzHWm": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    }
+  },
+  {
+    "@states": [
+      "PT_backLeftWide"
+    ],
+    "bqjgzNBcRsbXpui": {
+      "rotationX": 0.0,
+      "rotationY": -0.7854,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": -0.25,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JVDwnioPKJgvCwW": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "JpSUNQDozMfDblA": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 40.0
+    },
+    "ICfPxMhCLeZvhMl": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "gwBqaRPWYtbhjSA": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "YVlLJpMagdlQRKj": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 40.0
+    },
+    "icRIoUeRPJBhWQe": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "aWPLIVPwjLijYXf": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    },
+    "PdCqlruJeqUDJGT": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 40.0
+    },
+    "jpdkPOkGUpKKFXd": {
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0
+    },
+    "XdkBOQxFfqNzHWm": {
+      "centerOfInterest": 3.75886,
+      "fStop": 5.6,
+      "fov": 17.06153,
+      "focus": 5.0,
+      "horizontalFilmAperture": 1.41732,
+      "lensSqueezeRatio": 1.0,
+      "shutterAngle": 2.51327,
+      "verticalFilmAperture": 0.94488
+    }
+  }
+]
