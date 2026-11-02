@@ -7,7 +7,7 @@ window.addEventListener('error',e=>{debug.textContent+='\n'+e.message;notify('er
 window.addEventListener('unhandledrejection',e=>{debug.textContent+='\n'+e.reason?.stack;notify('error',{message:String(e.reason)})});
 (async()=>{
  if(!allowed.includes(family))throw Error('Unknown Apple scene');
- const script=document.createElement('script');script.src=family==='pro17'?'native/pro17/lotus.js':'native/shared-lotus.js';
+ const script=document.createElement('script');script.src=family==='pro17'?'native/pro17/lotus.js?pages=2':'native/shared-lotus.js?pages=2';
  await new Promise((resolve,reject)=>{script.onload=resolve;script.onerror=reject;document.head.append(script)});
  const lotus=Lotus.instance(),ua=navigator.userAgent,version=ua.match(/Version\/(\d+)\.(\d+)/)||[];
  lotus.settings.initialize({FeatureDetect:{touchAvailable:()=>navigator.maxTouchPoints>0},UserAgent:{browser:{safari:/Safari/.test(ua)&&!/Chrome/.test(ua),firefox:/Firefox/.test(ua),version:{major:+version[1],minor:+version[2]}},os:{ios:/iPhone|iPad/.test(ua)}}});
