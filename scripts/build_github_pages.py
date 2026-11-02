@@ -15,8 +15,7 @@ for p in output.rglob('*'):
         s = s.replace("location.replace('/yaki-supreme/'", "location.replace('"+base+"yaki-supreme/'")
     if p.suffix in {'.css','.html'}:
         s = re.sub(r'''url\((['"]?)/(?!/)([^)'"\s]+)(['"]?)\)''', lambda m:'url('+m[1]+base+m[2]+m[3]+')', s)
-    if p.suffix in {'.js','.mjs'}:
-        s = re.sub(r'''(['"`])/(assets|shared|fonts|vendor|models)/''', lambda m:m[1]+base+m[2]+'/', s)
+    # JS asset loaders resolve their own virtual roots. Preserve those strings.
     if p.name == 'site.webmanifest':
         data = json.loads(s)
         for icon in data.get('icons', []):
